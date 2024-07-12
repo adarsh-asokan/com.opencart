@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite name="Suite" thread-count="2">
+	<listeners>
+		<listener class-name="utilities.ExtentReportManager"></listener>
+	</listeners>
 	<test name="Test">
 		<parameter name="driver" value="chrome"></parameter>
+		<parameter name="os" value="windows"></parameter>
 		<classes>
 			<!-- -->
 			<class name="testCase.TS001_TC_RF_001_RegisterNewAccount" /> 

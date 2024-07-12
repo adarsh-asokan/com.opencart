@@ -1,6 +1,7 @@
 C:\Users\shilpa\3D Objects\Automation Project\com.opencart\src\test\java\testCase\TS001_TC_RF_001_RegisterNewAccount.java
 C:\Users\shilpa\3D Objects\Automation Project\com.opencart\src\test\java\pageObjects\HomePage.java
 C:\Users\shilpa\3D Objects\Automation Project\com.opencart\src\test\java\pageObjects\MyAccountPage.java
+C:\Users\shilpa\3D Objects\Automation Project\com.opencart\src\test\java\utilities\ExtentReportManager.java
 C:\Users\shilpa\3D Objects\Automation Project\com.opencart\src\test\java\testBase\BaseClass.java
 C:\Users\shilpa\3D Objects\Automation Project\com.opencart\src\test\java\pageObjects\BasePage.java
 C:\Users\shilpa\3D Objects\Automation Project\com.opencart\src\test\java\testCase\TS002_TC_RF_001_LoginAccount.java
