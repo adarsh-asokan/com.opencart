@@ -8,7 +8,7 @@ import pageObjects.HomePage;
 import pageObjects.RegisterPage;
 import testBase.BaseClass;
 
-public class TC_RF_001_RegisterNewAccount extends BaseClass {
+public class TS001_TC_RF_001_RegisterNewAccount extends BaseClass {
 
 	@Test
 	public void registerNewAccount() {

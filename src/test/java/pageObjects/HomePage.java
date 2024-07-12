@@ -16,6 +16,8 @@ public class HomePage extends BasePage {
 	@FindBy(linkText = "Register")
 	WebElement Lnk_Register;
 	
+	@FindBy(linkText = "Login")
+	WebElement Lnk_Login;
 	
 	
 	public void clickOnMyAccount() {
@@ -24,5 +26,9 @@ public class HomePage extends BasePage {
 	
 	public void clickOnRegister() {
 		Lnk_Register.click();
+	}
+	
+	public void clickOnLogin() {
+		Lnk_Login.click();
 	}
 }
